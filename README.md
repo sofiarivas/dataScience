@@ -19,3 +19,9 @@ Algunas herramientas que he encontrado en presentaciones y recomendadas por gent
 -  https://cartodb.com (mapas)
 -  https://plot.ly (gráficas)
 -  https://plot.ly/javascript/ (Librería detrás de Plotly)
+
+
+## Cursos
+
+-  [The Data Scientist Toolbox(Coursera)](https://www.coursera.org/learn/data-scientists-tools)
+-  [Data Visualization and D3.js(Udacity)](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
